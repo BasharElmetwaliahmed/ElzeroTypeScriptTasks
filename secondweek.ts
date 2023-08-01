@@ -1,3 +1,5 @@
+
+
 //task 1
 // Write Your Code Here
 type n=number
